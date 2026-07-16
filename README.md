@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyễn Đức An 👋
 
-### Full-Stack Web Developer
+### Backend Developer
 
 I am a passionate developer focused on building robust, scalable web applications. I love solving complex backend logic, optimizing databases, and crafting intuitive, responsive user interfaces.
 
